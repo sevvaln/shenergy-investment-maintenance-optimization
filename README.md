@@ -99,4 +99,5 @@ Arayüz ile kullanıcı:
 
 Projenin karar destek çıktıları, aşağıdaki arayüz bağlantısı üzerinden
 interaktif olarak incelenebilir: https://020658f3a6610f4b53.gradio.live/
+Not: Arayüz, karar mekanizmasını içeren kodlar çalıştırıldıktan sonra aktif hale gelmekte ve karar ağacının ürettiği çıktıları görselleştirmektedir.
 

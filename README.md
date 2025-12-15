@@ -4,11 +4,7 @@
 
 Bu depo, Enerjisa She-nergy programı kapsamında bir öğrenci ekibi tarafından geliştirilen kural tabanlı bir karar destek prototipini içermektedir.
 
-Sistem, verilen Excel veri seti üzerinden CBS / Asset kodu bazında kesinti kayıtlarını analiz eder ve her bir şebeke unsuru için:
-
-# YATIRIM – BAKIM – OPERASYON
-
-kararını üretir.
+Sistem, verilen Excel veri seti üzerinden CBS / Asset kodu bazında kesinti kayıtlarını analiz eder ve her bir şebeke unsuru için:  YATIRIM – BAKIM – OPERASYON kararını üretir.
 Üretilen bu kararlar, geliştirilen interaktif Gradio arayüzü üzerinden görselleştirilerek kullanıcıya sunulmaktadır.
 
 # Projenin Temel Yaklaşımı

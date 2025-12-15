@@ -1,7 +1,6 @@
 <img width="1170" height="400" alt="image" src="https://github.com/user-attachments/assets/f81c2a63-4347-41c1-98c5-400aa878e54d" />
 
-# SHE-NERGY MAKİNE ÖĞRENMESİ İLE YATIRIM BAKIM OPTİMİZASYONU  
-# GRUP 13 (WALTER WATT EKİBİ)
+# SHE-NERGY MAKİNE ÖĞRENMESİ İLE YATIRIM BAKIM OPTİMİZASYONU   GRUP 13 (WALTER WATT EKİBİ)
 
 Bu depo, Enerjisa She-nergy programı kapsamında bir öğrenci ekibi tarafından geliştirilen kural tabanlı bir karar destek prototipini içermektedir.
 

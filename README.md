@@ -97,6 +97,6 @@ Arayüz ile kullanıcı:
 
 - Kural tabanlı yapı üzerine makine öğrenmesi destekli hibrit karar mekanizmalarının eklenmesi
 
-Projenin karar destek çıktıları, aşağıdaki arayüz bağlantıso üzerinden
+Projenin karar destek çıktıları, aşağıdaki arayüz bağlantısı üzerinden
 interaktif olarak incelenebilir: https://3dad0bbfb8c309148e.gradio.live/
 

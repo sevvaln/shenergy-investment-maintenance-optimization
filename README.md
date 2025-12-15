@@ -36,11 +36,7 @@ Karar mekanizması, aşağıdaki temel değişkenleri kullanır:
 
 Bu değişkenler üzerinden sistem, her CBS kodu için 7 net karar yolu tanımlar ve tek bir karar üretir:
 
-# - YATIRIM
-
-# - BAKIM
-
-# - OPERASYON
+# YATIRIM – BAKIM – OPERASYON
 
 # Arayüz (Gradio)
 

@@ -1,5 +1,7 @@
 <img width="1170" height="400" alt="image" src="https://github.com/user-attachments/assets/f81c2a63-4347-41c1-98c5-400aa878e54d" />
+
 # SHE-NERGY MAKİNE ÖĞRENMESİ İLE YATIRIM BAKIM OPTİMİZASYONU
+
 Bu depo, Enerjisa She-nergy programı kapsamında bir öğrenci ekibi tarafından geliştirilen kural tabanlı bir karar destek prototipini içermektedir.
 
 Sistem, verilen Excel veri seti üzerinden CBS / Asset kodu bazında kesinti kayıtlarını analiz eder ve her bir şebeke unsuru için:

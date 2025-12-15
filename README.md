@@ -38,6 +38,8 @@ Bu değişkenler üzerinden sistem, her CBS kodu için 7 net karar yolu tanımla
 
 # YATIRIM – BAKIM – OPERASYON
 
+
+
 # Arayüz (Gradio)
 
 Geliştirilen Gradio tabanlı arayüz, karar mekanizmasından bağımsız yeni bir karar üretmez.
@@ -63,6 +65,8 @@ Arayüz ile kullanıcı:
 
 - Daha önce sorgulanan CBS kodlarını geçmişten tekrar seçebilir
 
+  
+
 # Kullanım
 
 - Excel dosyasını yükleyin (.xlsx)
@@ -73,6 +77,8 @@ Arayüz ile kullanıcı:
 
 - Sistem otomatik olarak karar, özet metrikler ve görselleri üretir
 
+  
+
 # Notlar
 
 - Gerçek veri setleri bu depoda paylaşılmamıştır.
@@ -80,6 +86,8 @@ Arayüz ile kullanıcı:
 - Kod yapısı, farklı kolon isimleri ve tarih/yük formatlarına uyum sağlayacak şekilde esnek tasarlanmıştır.
 
 - Bu çalışma, teknik bir öğrenci projesi olarak karar destek yaklaşımının uygulanabilir bir prototipini sunmaktadır.
+
+  
 
 # Geliştirme Alanları
 

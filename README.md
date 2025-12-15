@@ -81,7 +81,7 @@ Arayüz ile kullanıcı:
 
 # Notlar
 
-- Gerçek veri setleri bu depoda paylaşılmamıştır.
+- Bu çalışmada kullanılan gerçek veri setleri, veri gizliliği ve kurumsal hassasiyetler nedeniyle bu depoda paylaşılmamıştır. Depoda yalnızca karar mekanizmasına ve arayüze ait kodlar yer almaktadır.
 
 - Kod yapısı, farklı kolon isimleri ve tarih/yük formatlarına uyum sağlayacak şekilde esnek tasarlanmıştır.
 

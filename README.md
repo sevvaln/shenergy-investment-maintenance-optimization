@@ -41,7 +41,7 @@ Bu değişkenler üzerinden sistem, her CBS kodu için 7 net karar yolu tanımla
 # Arayüz (Gradio)
 
 Geliştirilen Gradio tabanlı arayüz, karar mekanizmasından bağımsız yeni bir karar üretmez.
-# Arayüzde gösterilen YATIRIM / BAKIM / OPERASYON sonucu, arka planda çalışan kural tabanlı karar ağacının çıktısıdır.
+Arayüzde gösterilen YATIRIM / BAKIM / OPERASYON sonucu, arka planda çalışan kural tabanlı karar ağacının çıktısıdır.
 Arayüzün amacı, bu kararın dayandığı verileri ve özet metrikleri
 kullanıcıya şeffaf ve görsel bir şekilde sunmaktır.
 
